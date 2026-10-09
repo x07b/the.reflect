@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd C:\\\\Users\\\\Zuss\\\\the\\.reflect\\\\site ; npm run dev$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
